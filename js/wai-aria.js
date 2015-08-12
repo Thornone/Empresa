@@ -1,0 +1,1 @@
+jQuery(function($){$('[role="menubar"]').on('focus.aria  mouseenter.aria','[aria-haspopup="true"]',function(ev){$(ev.currentTarget).attr('aria-expanded',true);});$('[role="menubar"]').on('blur.aria  mouseleave.aria','[aria-haspopup="true"]',function(ev){$(ev.currentTarget).attr('aria-expanded',false);});});
