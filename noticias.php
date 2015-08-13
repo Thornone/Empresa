@@ -14,19 +14,19 @@
 			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 <style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
-<link rel='stylesheet' id='ptss-style-css' href='https://demo.proteusthemes.com/cargopress/wp-content/plugins/cargopress-js-style-switcher/assets/css/pt-style-switcher.css?ver=1.1.0' type='text/css' media='all'/>
-<link rel='stylesheet' id='contact-form-7-css' href='https://demo.proteusthemes.com/cargopress/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.2.2' type='text/css' media='all'/>
-<link rel='stylesheet' id='woocommerce-layout-css' href='//demo.proteusthemes.com/cargopress/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.3.13' type='text/css' media='all'/>
-<link rel='stylesheet' id='woocommerce-smallscreen-css' href='//demo.proteusthemes.com/cargopress/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.3.13' type='text/css' media='only screen and (max-width: 768px)'/>
-<link rel='stylesheet' id='woocommerce-general-css' href='//demo.proteusthemes.com/cargopress/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.3.13' type='text/css' media='all'/>
-<link rel='stylesheet' id='cargopress-woocommerce-css' href='https://demo.proteusthemes.com/cargopress/wp-content/themes/cargopress-pt/woocommerce.css?ver=1.4.0-6-g8dc6202' type='text/css' media='all'/>
-<link rel='stylesheet' id='cargopress-main-css' href='https://demo.proteusthemes.com/cargopress/wp-content/themes/cargopress-pt/style.css?ver=1.4.0-6-g8dc6202' type='text/css' media='all'/>
+<link rel='stylesheet' id='ptss-style-css' href='css/pt-style-switcher.css' type='text/css' media='all'/>
+<link rel='stylesheet' id='contact-form-7-css' href='css/styles.css' type='text/css' media='all'/>
+<link rel='stylesheet' id='woocommerce-layout-css' href='css/woocommerce-layout.css' type='text/css' media='all'/>
+<link rel='stylesheet' id='woocommerce-smallscreen-css' href='css/woocommerce-smallscreen.css' type='text/css' media='only screen and (max-width: 768px)'/>
+<link rel='stylesheet' id='woocommerce-general-css' href='css/woocommerce.css' type='text/css' media='all'/>
+<link rel='stylesheet' id='cargopress-woocommerce-css' href='css/woocommerce.css' type='text/css' media='all'/>
+<link rel='stylesheet' id='cargopress-main-css' href='css/style.css' type='text/css' media='all'/>
 <style id='cargopress-main-inline-css' type='text/css'>.top,.top-navigation .sub-menu>li>a{background-color:#f5f5f5;}.top,.top-navigation .sub-menu>li>a{border-bottom-color:#ededed;}.top-navigation .sub-menu>li>.sub-menu{border-left-color:#ededed;}.top,.top-navigation>li>a,.top-navigation .sub-menu>li>a{color:#aaaaaa;}.top-navigation>li>a:hover,.top-navigation>li>a:focus,.top-navigation .sub-menu>li>a:focus,.top-navigation .sub-menu>li>a:hover{color:#919191;}.header__widgets,.header__logo,.header__container::before,.header__container::after,.header__logo::after{background-color:#ffffff;}@media (max-width: 991px) {.header__container,.main-navigation .sub-menu>li>a{background-color:#ffffff;}}.header,.header .icon-box__title{color:#aaaaaa;}.header .icon-box__subtitle{color:#474747;}.breadcrumbs{background-color:#ffffff;}.breadcrumbs a::before,.breadcrumbs a::after{background-color:#e6e6e6;}.breadcrumbs a{color:#444444;}.breadcrumbs a:hover{color:#373737;}.breadcrumbs{color:#aaaaaa;}@media (min-width: 992px) {.header__container{background-color:#1f425d;}}.navbar-toggle,.jumbotron{background-color:#1f425d;}.navbar-toggle:hover{background-color:#062944;}@media (min-width: 992px) {.social-icons__link,.social-icons__link:hover{color:#1f425d;}}@media (min-width: 992px) {.main-navigation>li>a,.main-navigation .menu-item-has-children::after,.main-navigation>li:hover>a,.main-navigation>li:focus>a{color:#ffffff;}}@media (min-width: 992px) {.main-navigation .menu-item-has-children:hover>a,.main-navigation .sub-menu>li>a,.main-navigation ul.sub-menu{background-color:#ffffff;}}@media (min-width: 992px) {.main-navigation .sub-menu>li>a,.main-navigation .sub-menu .menu-item-has-children::after{color:#999999;}}@media (min-width: 992px) {.main-navigation .menu-item-has-children:hover>a,.main-navigation .sub-menu>li>a:hover,.main-navigation .menu-item-has-children:hover::after,.main-navigation .sub-menu .menu-item-has-children:hover::after{color:#1f425d;}}@media (max-width: 991px) {.main-navigation>li>a{color:#444444;}}@media (max-width: 991px) {.main-navigation>li:hover>a,.main-navigation>li:focus>a{color:#1f425d;}}@media (max-width: 991px) {.main-navigation .sub-menu>li>a{color:#999999;}}@media (max-width: 991px) {.main-navigation .sub-menu>li>a:hover{color:#1f425d;}}.main-title{background-image:url("");}.main-title h1,.main-title h2{color:#444444;}.main-title h3{color:#aaaaaa;}body,.widget_pw_icon_box .icon-box__subtitle{color:#aaaaaa;}h1,h2,h3,h4,h5,h6,hentry__title,.hentry__title a,.page-box__title a{color:#444444;}.header .icon-box .fa,.number-counter__icon,hr.hr-quote::after{color:#e21f2f;}.latest-news__date,.sticky .btn--post,.main-navigation>.current-menu-item>a::after,.main-navigation>li:hover>a::after,.main-navigation>li:focus>a::after,body.woocommerce-page span.onsale,.woocommerce span.onsale{background-color:#e21f2f;}.latest-news__date::after{border-top-color:#ce0b1b;}.sticky .btn--post{border-color:#e21f2f;}.btn-info,.btn-primary,.testimonial__quote::before,.widget_search .search-submit,.sidebar .widget_nav_menu ul>li.current-menu-item a,.pagination .current,body.woocommerce-page .widget_shopping_cart_content .buttons .checkout,body.woocommerce-page nav.woocommerce-pagination ul li span.current,body.woocommerce-page button.button.alt,body.woocommerce-page div.product .woocommerce-tabs ul.tabs li.active,body.woocommerce-page .woocommerce-error a.button,body.woocommerce-page .woocommerce-info a.button,body.woocommerce-page .woocommerce-message a.button,.woocommerce-cart .wc-proceed-to-checkout a.checkout-button,body.woocommerce-page #payment #place_order,body.woocommerce-page #review_form #respond input#submit,.woocommerce button.button.alt:disabled,.woocommerce button.button.alt:disabled:hover,.woocommerce button.button.alt:disabled[disabled],.woocommerce button.button.alt:disabled[disabled]:hover,.widget_calendar caption{background-color:#4ab9cf;}.btn-info,.btn-primary,body.woocommerce-page .widget_shopping_cart_content .buttons .checkout{border-color:#4ab9cf;}.btn-info:hover,.open>.btn-info.dropdown-toggle,.btn-info.active,.btn-info.focus,.btn-info:active,.btn-info:focus,.btn-primary:hover,.btn-primary:focus,.btn-primary:active,.open>.btn-primary.dropdown-toggle,.btn-primary.active,.btn-primary.focus,.widget_search .search-submit:hover,.widget_search .search-submit:focus,body.woocommerce-page .widget_shopping_cart_content .buttons .checkout:hover,body.woocommerce-page button.button.alt:hover,body.woocommerce-page .woocommerce-error a.button:hover,body.woocommerce-page .woocommerce-info a.button:hover,body.woocommerce-page .woocommerce-message a.button:hover,.woocommerce-cart .wc-proceed-to-checkout a.checkout-button:hover,body.woocommerce-page #payment #place_order:hover,body.woocommerce-page #review_form #respond input#submit:hover{background-color:#3dacc2;}.btn-info:hover,.open>.btn-info.dropdown-toggle,.btn-info.active,.btn-info.focus,.btn-info:active,.btn-info:focus,.btn-primary:hover,.btn-primary:focus,.btn-primary:active,.open>.btn-primary.dropdown-toggle,.btn-primary.active,.btn-primary.focus,body.woocommerce-page .widget_shopping_cart_content .buttons .checkout:hover{border-color:#3dacc2;}a,.latest-news--more-news::after,.widget_pw_icon_box .icon-box:hover .fa,body.woocommerce-page ul.products li.product a:hover img,.woocommerce ul.products li.product a:hover img,body.woocommerce-page ul.products li.product .price,.woocommerce ul.products li.product .price,body.woocommerce-page .star-rating,.woocommerce .star-rating,body.woocommerce-page div.product p.price,body.woocommerce-page p.stars a{color:#4ab9cf;}a:hover,a:focus{color:#3dacc2;}.widget_pw_icon_box .icon-box:hover,.logo-panel img:hover{border-bottom-color:#4ab9cf;}.footer-top,.footer::before,.footer::after,.footer-top::before,.footer-top::after{background-color:#1f425d;}.footer .icon-container--square,.footer .icon-container--circle{color:#1f425d;}.footer-top__headings{color:#ffffff;}.footer-top,.footer-top .textwidget{color:#9eb7cb;}.footer .widget_nav_menu ul>li>a{color:#9eb7cb;}.footer-bottom{background-color:#162f42;}.footer-bottom{color:#577186;}.footer-bottom a{color:#eeeeee;}.footer-bottom a:hover{color:#fbfbfb;}@media (min-width: 992px) {.header__logo{width:270px;}.header__widgets{width:calc(100% - 270px);}.header__navigation{width:75%;}}@media (min-width: 1200px) {.header__navigation{width:calc(80% - 300px);margin-left:300px;}}.main-title{background:#f5f5f5 linear-gradient(90deg,#f5f5f5,#eeeeee)}@media (min-width: 992px){.header__logo img{margin-top:35px;}}.slb_details{display:none;}</style>
-<link rel='stylesheet' id='slb_core-css' href='https://demo.proteusthemes.com/cargopress/wp-content/plugins/simple-lightbox/client/css/app.css?ver=2.4.1' type='text/css' media='all'/>
-<script type='text/javascript' src='https://demo.proteusthemes.com/cargopress/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
-<script type='text/javascript' src='https://demo.proteusthemes.com/cargopress/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
-<script type='text/javascript' src='https://demo.proteusthemes.com/cargopress/wp-content/themes/cargopress-pt/assets/js/modernizr.custom.24530.js'></script>
-<script type='text/javascript' src='https://demo.proteusthemes.com/cargopress/wp-content/themes/cargopress-pt/bower_components/picturefill/dist/picturefill.min.js?ver=1.2.0'></script>
+<link rel='stylesheet' id='slb_core-css' href='css/app.css' type='text/css' media='all'/>
+<script type='text/javascript' src='js/jquery.js'></script>
+<script type='text/javascript' src='js/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='js/modernizr.custom.24530.js'></script>
+<script type='text/javascript' src='js/picturefill.min.js'></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://demo.proteusthemes.com/cargopress/xmlrpc.php?rsd"/>
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://demo.proteusthemes.com/cargopress/wp-includes/wlwmanifest.xml"/>
 <meta name="generator" content="WordPress 4.2.4"/>
@@ -68,7 +68,7 @@ Welcome to our land of opportunities </div>
 <header class="header" role="banner">
 <div class="header__logo">
 <a href="https://demo.proteusthemes.com/cargopress">
-<img src="https://demo.proteusthemes.com/cargopress/wp-content/themes/cargopress-pt/assets/images/logo.png" alt="CargoPress" srcset="https://demo.proteusthemes.com/cargopress/wp-content/themes/cargopress-pt/assets/images/logo.png" class="img-responsive"/>
+<img src="https://demo.proteusthemes.com/cargopress/wp-content/themes/cargopress-pt/assets/images/logo.png" alt="CargoPress" srcset="images/logo.png" class="img-responsive"/>
 </a>
 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#cargopress-navbar-collapse">
 <span class="navbar-toggle__text">MENU</span>
@@ -145,7 +145,7 @@ Welcome to our land of opportunities </div>
 <main class="col-xs-12  col-md-9" role="main">
 <article class="clearfix post-196 post type-post status-publish format-standard has-post-thumbnail hentry category-delivery category-shipping tag-warehouse">
 <a href="https://demo.proteusthemes.com/cargopress/2015/05/06/why-choose-our-warehousing-service-2/">
-<img width="848" height="480" src="https://demo.proteusthemes.com/cargopress/wp-content/uploads/sites/24/2015/04/31.jpg" class="img-responsive wp-post-image" alt="31"/> </a>
+<img width="848" height="480" src="images/31.jpg" class="img-responsive wp-post-image" alt="31"/> </a>
 <div class="meta-data">
 <time datetime="2015-05-06T15:00:06+00:00" class="meta-data__date">May 6, 2015</time>
 <span class="meta-data__separator">/</span>
@@ -160,7 +160,7 @@ Welcome to our land of opportunities </div>
 </article>
 <article class="clearfix post-194 post type-post status-publish format-standard has-post-thumbnail hentry category-cargo category-shipping tag-trucking">
 <a href="https://demo.proteusthemes.com/cargopress/2015/05/06/top-benefits-of-hiring-our-trucking-service-2/">
-<img width="848" height="480" src="https://demo.proteusthemes.com/cargopress/wp-content/uploads/sites/24/2015/04/8.jpg" class="img-responsive wp-post-image" alt="8"/> </a>
+<img width="848" height="480" src="images/8.jpg" class="img-responsive wp-post-image" alt="8"/> </a>
 <div class="meta-data">
 <time datetime="2015-05-06T14:56:16+00:00" class="meta-data__date">May 6, 2015</time>
 <span class="meta-data__separator">/</span>
@@ -175,7 +175,7 @@ Welcome to our land of opportunities </div>
 </article>
 <article class="clearfix post-191 post type-post status-publish format-standard has-post-thumbnail hentry category-cargo category-international tag-logistic">
 <a href="https://demo.proteusthemes.com/cargopress/2015/05/06/logistic-service-providers-would-understand-your-business/">
-<img width="848" height="480" src="https://demo.proteusthemes.com/cargopress/wp-content/uploads/sites/24/2015/04/36.jpg" class="img-responsive wp-post-image" alt="36"/> </a>
+<img width="848" height="480" src="images/36.jpg" class="img-responsive wp-post-image" alt="36"/> </a>
 <div class="meta-data">
 <time datetime="2015-05-06T14:54:11+00:00" class="meta-data__date">May 6, 2015</time>
 <span class="meta-data__separator">/</span>
@@ -190,7 +190,7 @@ Welcome to our land of opportunities </div>
 </article>
 <article class="clearfix post-188 post type-post status-publish format-standard has-post-thumbnail hentry category-delivery category-moving tag-trucking">
 <a href="https://demo.proteusthemes.com/cargopress/2015/05/06/our-trucking-service-ensures-you-best-quality-services-at-all-times/">
-<img width="848" height="480" src="https://demo.proteusthemes.com/cargopress/wp-content/uploads/sites/24/2015/04/42.jpg" class="img-responsive wp-post-image" alt="42"/> </a>
+<img width="848" height="480" src="images/42.jpg" class="img-responsive wp-post-image" alt="42"/> </a>
 <div class="meta-data">
 <time datetime="2015-05-06T14:52:07+00:00" class="meta-data__date">May 6, 2015</time>
 <span class="meta-data__separator">/</span>
@@ -205,7 +205,7 @@ Welcome to our land of opportunities </div>
 </article>
 <article class="clearfix post-186 post type-post status-publish format-standard has-post-thumbnail hentry category-storage category-trucking tag-shipping">
 <a href="https://demo.proteusthemes.com/cargopress/2015/05/06/we-are-experienced-and-expert-in-the-business-of-logistics/">
-<img width="848" height="480" src="https://demo.proteusthemes.com/cargopress/wp-content/uploads/sites/24/2015/04/32.jpg" class="img-responsive wp-post-image" alt="32"/> </a>
+<img width="848" height="480" src="images/32.jpg" class="img-responsive wp-post-image" alt="32"/> </a>
 <div class="meta-data">
 <time datetime="2015-05-06T14:50:48+00:00" class="meta-data__date">May 6, 2015</time>
 <span class="meta-data__separator">/</span>
@@ -400,15 +400,15 @@ Color Skin
 </div>
 </div>
 </div>
-<script type='text/javascript' src='https://demo.proteusthemes.com/cargopress/wp-includes/js/underscore.min.js?ver=1.6.0'></script>
-<script type='text/javascript' src='https://demo.proteusthemes.com/cargopress/wp-includes/js/backbone.min.js?ver=1.1.2'></script>
+<script type='text/javascript' src='js/underscore.min.js'></script>
+<script type='text/javascript' src='js/backbone.min.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var ptssVars = {"siteId":"24","pathToPlugin":"https:\/\/demo.proteusthemes.com\/cargopress\/wp-content\/plugins\/cargopress-js-style-switcher\/"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://demo.proteusthemes.com/cargopress/wp-content/plugins/cargopress-js-style-switcher/assets/js/frontend.js?ver=1.1.0'></script>
-<script type='text/javascript' src='https://demo.proteusthemes.com/cargopress/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript' src='js/frontend.js'></script>
+<script type='text/javascript' src='js/jquery.form.min.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var _wpcf7 = {"loaderUrl":"https:\/\/demo.proteusthemes.com\/cargopress\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ...","cached":"1"};
@@ -420,29 +420,29 @@ var _wpcf7 = {"loaderUrl":"https:\/\/demo.proteusthemes.com\/cargopress\/wp-cont
 var wc_add_to_cart_params = {"ajax_url":"\/cargopress\/wp-admin\/admin-ajax.php","i18n_view_cart":"View Cart","cart_url":"https:\/\/demo.proteusthemes.com\/cargopress\/shop\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='//demo.proteusthemes.com/cargopress/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.3.13'></script>
-<script type='text/javascript' src='//demo.proteusthemes.com/cargopress/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.60'></script>
+<script type='text/javascript' src='js/add-to-cart.min.js'></script>
+<script type='text/javascript' src='js/jquery.blockUI.min.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var woocommerce_params = {"ajax_url":"\/cargopress\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='//demo.proteusthemes.com/cargopress/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.3.13'></script>
-<script type='text/javascript' src='//demo.proteusthemes.com/cargopress/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='js/woocommerce.min.js'></script>
+<script type='text/javascript' src='js/jquery.cookie.min.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var wc_cart_fragments_params = {"ajax_url":"\/cargopress\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='//demo.proteusthemes.com/cargopress/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.3.13'></script>
+<script type='text/javascript' src='js/cart-fragments.min.js'></script>
 <script type='text/javascript' src='//maps.google.com/maps/api/js?sensor=false'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var CargoPressVars = {"pathToTheme":"https:\/\/demo.proteusthemes.com\/cargopress\/wp-content\/themes\/cargopress-pt"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='https://demo.proteusthemes.com/cargopress/wp-content/themes/cargopress-pt/assets/js/main.min.js?ver=1.4.0-6-g8dc6202'></script>
-<script type='text/javascript' src='https://demo.proteusthemes.com/cargopress/wp-content/themes/cargopress-pt/vendor/proteusthemes/wai-aria-walker-nav-menu/wai-aria.js'></script>
+<script type='text/javascript' src='js/main.min.js'></script>
+<script type='text/javascript' src='js/wai-aria.js'></script>
 <script type="text/javascript" id="slb_context">/* <![CDATA[ */if ( !!window.jQuery ) {(function($){$(document).ready(function(){if ( !!window.SLB ) { {$.extend(SLB, {"context":["public","user_guest"]});} }})})(jQuery);}/* ]]> */</script>
 </body>
 </html>
