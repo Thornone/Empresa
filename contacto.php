@@ -426,7 +426,7 @@ var woocommerce_params = {"ajax_url":"\/cargopress\/wp-admin\/admin-ajax.php"};
 /* ]]> */
 </script>
 <script type='text/javascript' src='js/woocommerce.min.js'></script>
-<script type='text/javascript' src='js/jquery-cookie/jquery.cookie.min.js'></script>
+<script type='text/javascript' src='js/jquery.cookie.min.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var wc_cart_fragments_params = {"ajax_url":"\/cargopress\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};

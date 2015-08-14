@@ -402,7 +402,7 @@ var _wpcf7 = {"loaderUrl":"https:\/\/demo.proteusthemes.com\/cargopress\/wp-cont
 var wc_add_to_cart_params = {"ajax_url":"\/cargopress\/wp-admin\/admin-ajax.php","i18n_view_cart":"View Cart","cart_url":"https:\/\/demo.proteusthemes.com\/cargopress\/shop\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='js/frontend/add-to-cart.min.js'></script>
+<script type='text/javascript' src='js/add-to-cart.min.js'></script>
 <script type='text/javascript' src='js/jquery.blockUI.min.js'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */

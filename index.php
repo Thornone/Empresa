@@ -1,9 +1,9 @@
-
+<!DOCTYPE html>
 <html lang="en-US">
 <head><!--[if IE]><![endif]--><link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto%3A400%2C700%7CSource+Sans+Pro%3A700%2C900&subset=latin"/>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<link rel="pingback" href="index.php"/>
+<link rel="pingback" href="https://demo.proteusthemes.com/cargopress/xmlrpc.php"/>
 <title>CargoPress | Welcome to our land of opportunities</title>
 <link rel="alternate" type="application/rss+xml" title="CargoPress &raquo; Feed" href="https://demo.proteusthemes.com/cargopress/feed/"/>
 <link rel="alternate" type="application/rss+xml" title="CargoPress &raquo; Comments Feed" href="https://demo.proteusthemes.com/cargopress/comments/feed/"/>
@@ -13,7 +13,7 @@
             !function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
         </script>
 <style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
-<link rel='stylesheet' href='css/front.css?ver=2.1.4' type='text/css' media='all'/>
+<link rel='stylesheet' href='css/front.css' type='text/css' media='all'/>
 <link rel='stylesheet' href='css/pt-style-switcher.css' type='text/css' media='all'/>
 <link rel='stylesheet' href='css/styles.css' type='text/css' media='all'/>
 <link rel='stylesheet' href='css/woocommerce-layout.css' type='text/css' media='all'/>
@@ -89,8 +89,8 @@ Welcome to our land of opportunities </div>
 </div>
 <div class="header__navigation">
 <nav class="collapse  navbar-collapse" role="navigation" aria-label="Main Menu" id="cargopress-navbar-collapse">
-<ul id="menu-main-menu" class="main-navigation  js-main-nav  js-dropdown" role="menubar"><li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6 current_page_item menu-item-11"><a href="index.php">Inicio</a></li>
-<li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-84" aria-haspopup="true" aria-expanded="false" tabindex="0"><a href="servicios.php">Servicios</a>
+<ul id="menu-main-menu" class="main-navigation  js-main-nav  js-dropdown" role="menubar"><li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6 current_page_item menu-item-11"><a href="https://demo.proteusthemes.com/cargopress/">Home</a></li>
+<li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-84" aria-haspopup="true" aria-expanded="false" tabindex="0"><a href="https://demo.proteusthemes.com/cargopress/services/">Services</a>
 <ul class="sub-menu" role="menu">
 <li id="menu-item-103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="https://demo.proteusthemes.com/cargopress/services/ground-transport/">Ground Transport</a></li>
 <li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="https://demo.proteusthemes.com/cargopress/services/cargo/">Cargo</a></li>
@@ -100,10 +100,10 @@ Welcome to our land of opportunities </div>
 <li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="https://demo.proteusthemes.com/cargopress/services/storage/">Storage</a></li>
 </ul>
 </li>
-<li id="menu-item-234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a href="nosotros.php">Nosotros</a></li>
-<li id="menu-item-360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-360"><a href="tienda.php">Tienda</a></li>
-<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="noticias.php">Noticias</a></li>
-<li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="contacto.php">Contacto</a></li>
+<li id="menu-item-234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a href="https://demo.proteusthemes.com/cargopress/about-us/">About Us</a></li>
+<li id="menu-item-360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-360"><a href="https://demo.proteusthemes.com/cargopress/shop/">Shop</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="https://demo.proteusthemes.com/cargopress/news/">News</a></li>
+<li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="https://demo.proteusthemes.com/cargopress/contact-us/">Contact Us</a></li>
 </ul> </nav>
 </div>
 <div class="header__widgets">
@@ -129,14 +129,13 @@ Welcome to our land of opportunities </div>
 </div><div class="widget  widget_text"> <div class="textwidget"><a class="btn    btn-info" href="https://demo.proteusthemes.com/cargopress/contact-us/" target="_self">REQUEST A QUOTE</a></div>
 </div> </div>
 <div class="header__navigation-widgets">
-<div class="widget widget-social-icons">
-<a class="social-icons__link" href="https://www.facebook.com/ProteusThemes" target="_blank"><i class="fa fa-facebook"></i></a>
-<a class="social-icons__link" href="https://twitter.com/ProteusThemes" target="_blank"><i class="fa fa-twitter"></i></a>
-<a class="social-icons__link" href="http://themeforest.net/user/ProteusThemes/portfolio" target="_blank"><i class="fa fa-wordpress"></i></a>
-<a class="social-icons__link" href="https://www.youtube.com/user/ProteusNetCompany" target="_blank"><i class="fa fa-youtube"></i></a>
+<div class="widget  widget-social-icons">
+<a class="social-icons__link" href="https://www.facebook.com/ProteusThemes" target="_blank"><i class="fa  fa-facebook"></i></a>
+<a class="social-icons__link" href="https://twitter.com/ProteusThemes" target="_blank"><i class="fa  fa-twitter"></i></a>
+<a class="social-icons__link" href="http://themeforest.net/user/ProteusThemes/portfolio" target="_blank"><i class="fa  fa-wordpress"></i></a>
+<a class="social-icons__link" href="https://www.youtube.com/user/ProteusNetCompany" target="_blank"><i class="fa  fa-youtube"></i></a>
 </div> </div>
 </header>
-
 </div>
 </div><div class="jumbotron  jumbotron--with-captions">
 <div class="carousel  slide  js-jumbotron-slider" id="headerCarousel" data-ride="carousel" data-interval="5000">
@@ -173,7 +172,7 @@ Welcome to our land of opportunities </div>
 </div>
 </div>
 <div class="item ">
-<img src="images/slider_3.jpg" srcset="images/slider_3.jpg 1920w, images/slider_3-425x200.jpg 425w" sizes="100vw" alt="GROUND OR AIR, THERE IS NO STOPPING FOR US">
+<img src="images/slider_3.jpg" srcset="https://demo.proteusthemes.com/cargopress/wp-content/uploads/sites/24/2015/04/slider_3.jpg 1920w, images/slider_3-425x200.jpg 425w" sizes="100vw" alt="GROUND OR AIR, THERE IS NO STOPPING FOR US">
 <div class="container">
 <div class="jumbotron-content">
 <div class="jumbotron-content__title">
@@ -204,7 +203,7 @@ Welcome to our land of opportunities </div>
 <p><a href="#" class="read-more">MORE ABOUT US</a></p>
 </div></div></div></div><div class="panel-grid-cell" id="pgc-6-0-1"><div class="so-panel widget widget_pw_featured_page panel-first-child panel-last-child" id="panel-6-0-1-0">
 <div class="page-box  page-box--block">
-<a class="page-box__picture" href="https://demo.proteusthemes.com/cargopress/services/cargo/"><img width="360" height="204" src="https://demo.proteusthemes.com/cargopress/wp-content/uploads/sites/24/2015/04/32.jpg" class="attachment-pw-page-box wp-post-image" alt="32"/></a>
+<a class="page-box__picture" href="https://demo.proteusthemes.com/cargopress/services/cargo/"><img width="360" height="204" src="images/32.jpg" class="attachment-pw-page-box wp-post-image" alt="32"/></a>
 <div class="page-box__content">
 <h5 class="page-box__title  text-uppercase"><a href="https://demo.proteusthemes.com/cargopress/services/cargo/">Cargo</a></h5>
 <p>Team of cargo experts are always available to help you with any queries you might have, or if you want to consult in length your logistic requirements. We would study your requirements and provide you with a quote that would not only suit your &hellip;</p>
@@ -213,7 +212,7 @@ Welcome to our land of opportunities </div>
 </div>
 </div></div><div class="panel-grid-cell" id="pgc-6-0-2"><div class="so-panel widget widget_pw_featured_page panel-first-child panel-last-child" id="panel-6-0-2-0">
 <div class="page-box  page-box--block">
-<a class="page-box__picture" href="https://demo.proteusthemes.com/cargopress/services/logistic-service/"><img width="360" height="204" src="https://demo.proteusthemes.com/cargopress/wp-content/uploads/sites/24/2015/04/30.jpg" class="attachment-pw-page-box wp-post-image" alt="30"/></a>
+<a class="page-box__picture" href="https://demo.proteusthemes.com/cargopress/services/logistic-service/"><img width="360" height="204" src="images/30.jpg" class="attachment-pw-page-box wp-post-image" alt="30"/></a>
 <div class="page-box__content">
 <h5 class="page-box__title  text-uppercase"><a href="https://demo.proteusthemes.com/cargopress/services/logistic-service/">Logistic Service</a></h5>
 <p>We provide logistic services in the nation, whether it is freight transportation, supply chain solutions, warehousing and distribution, customer resource area services, customs, security and insurance, temperature controlled logistics, industry &hellip;</p>
@@ -222,7 +221,7 @@ Welcome to our land of opportunities </div>
 </div>
 </div></div><div class="panel-grid-cell" id="pgc-6-0-3"><div class="so-panel widget widget_pw_featured_page panel-first-child panel-last-child" id="panel-6-0-3-0">
 <div class="page-box  page-box--block">
-<a class="page-box__picture" href="https://demo.proteusthemes.com/cargopress/services/storage/"><img width="360" height="204" src="https://demo.proteusthemes.com/cargopress/wp-content/uploads/sites/24/2015/04/4.jpg" class="attachment-pw-page-box wp-post-image" alt="4"/></a>
+<a class="page-box__picture" href="https://demo.proteusthemes.com/cargopress/services/storage/"><img width="360" height="204" src="images/4.jpg" class="attachment-pw-page-box wp-post-image" alt="4"/></a>
 <div class="page-box__content">
 <h5 class="page-box__title  text-uppercase"><a href="https://demo.proteusthemes.com/cargopress/services/storage/">Storage</a></h5>
 <p>We take pride in catering to a broad range of clientele throughout the country with our warehousing services, which is comprehensive, reliable and flexible – qualities that are essential to help businesses in this market. Our experienced experts &hellip;</p>
@@ -339,7 +338,7 @@ By Jaka Smid
 <a href="https://demo.proteusthemes.com/cargopress/news/" class="latest-news  latest-news--more-news">
 More news
 </a>
-</div></div></div></div><div class="panel-grid" id="pg-6-5"><div class="siteorigin-panels-stretch panel-row-style" style="padding: 60px;background-image: url(https://demo.proteusthemes.com/cargopress/wp-content/uploads/sites/24/2015/04/core_values_bg.jpg);background-position: center center; background-repeat: no-repeat;" data-stretch-type="full"><div class="panel-grid-cell" id="pgc-6-5-0">&nbsp;</div><div class="panel-grid-cell" id="pgc-6-5-1"><div class="so-panel widget widget_black-studio-tinymce panel-first-child panel-last-child" id="panel-6-5-1-0"><div class="textwidget"><h3 style="text-align: center; font-size: 44px;">OUR CORE VALUES</h3>
+</div></div></div></div><div class="panel-grid" id="pg-6-5"><div class="siteorigin-panels-stretch panel-row-style" style="padding: 60px;background-image: url(images/core_values_bg.jpg);background-position: center center; background-repeat: no-repeat;" data-stretch-type="full"><div class="panel-grid-cell" id="pgc-6-5-0">&nbsp;</div><div class="panel-grid-cell" id="pgc-6-5-1"><div class="so-panel widget widget_black-studio-tinymce panel-first-child panel-last-child" id="panel-6-5-1-0"><div class="textwidget"><h3 style="text-align: center; font-size: 44px;">OUR CORE VALUES</h3>
 <p style="text-align: center;"><span style="color: #4ab9cf;"><strong>WRITTEN BY CARGOPRESS CEO</strong></span></p>
 <hr class="hr-quote"/>
 <p style="text-align: center;">Core values are the fundamental beliefs of a person or organization. The core values are the guiding principles that t dictate behavior and action. Core values can help people to know what is right from wrong, they can help companies to determine if they are on the right path and fulfilling their business goals; and they create an unwavering and unchanging guide. There are many different types of core values and many different examples of core values depending upon the context.</p>
