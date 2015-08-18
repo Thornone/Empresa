@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <link rel="pingback" href="https://demo.proteusthemes.com/cargopress/xmlrpc.php"/>
-<title>CargoPress | Welcome to our land of opportunities</title>
+<title>Rush-Box | Welcome to our land of opportunities</title>
 <link rel="alternate" type="application/rss+xml" title="CargoPress &raquo; Feed" href="https://demo.proteusthemes.com/cargopress/feed/"/>
 <link rel="alternate" type="application/rss+xml" title="CargoPress &raquo; Comments Feed" href="https://demo.proteusthemes.com/cargopress/comments/feed/"/>
 <link rel="alternate" type="application/rss+xml" title="CargoPress &raquo; Home Comments Feed" href="https://demo.proteusthemes.com/cargopress/home/feed/"/>
@@ -61,14 +61,8 @@ var panelsStyles = {"fullContainer":".boxed-container"};
 Welcome to our land of opportunities </div>
  
 <nav class="top__menu" role="navigation" aria-label="Top Menu">
-<ul id="menu-top-menu" class="top-navigation  js-dropdown" role="menubar"><li id="menu-item-467" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-467" aria-haspopup="true" aria-expanded="false" tabindex="0"><a href="https://demo.proteusthemes.com/cargopress/extras/tables/">Extras</a>
-<ul class="sub-menu" role="menu">
-<li id="menu-item-468" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-468"><a href="https://demo.proteusthemes.com/cargopress/extras/tables/">Tables</a></li>
-</ul>
-</li>
-<li id="menu-item-24" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24"><a href="http://themeforest.net/item/cargopress-logistic-warehouse-transport-wp/11601531?ref=proteusthemes">Buy Now</a></li>
-<li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a target="_blank" href="https://www.proteusthemes.com/docs/cargopress-pt/">Theme Documentation</a></li>
-</ul> </nav>
+
+ </nav>
 </div>
 </div>
 <div class="header__container">
@@ -111,7 +105,7 @@ Welcome to our land of opportunities </div>
 <div class="icon-box">
 <i class="fa  fa-headphones"></i>
 <h4 class="icon-box__title">Call Us Anytime</h4>
-<span class="icon-box__subtitle">1-888-123-4567</span>
+<span class="icon-box__subtitle">+1 (956) 489-2390</span>
 </div>
 </div><div class="widget  widget-icon-box">
 <div class="icon-box">
@@ -126,8 +120,7 @@ Welcome to our land of opportunities </div>
 <span class="icon-box__subtitle"><a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="70191e161f30131102171f00021503035e191f">[email&#160;protected]</a><script cf-hash='f9e31' type="text/javascript">
 /* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></span>
 </div>
-</div><div class="widget  widget_text"> <div class="textwidget"><a class="btn    btn-info" href="https://demo.proteusthemes.com/cargopress/contact-us/" target="_self">REQUEST A QUOTE</a></div>
-</div> </div>
+</div>  </div>
 <div class="header__navigation-widgets">
 <div class="widget  widget-social-icons">
 <a class="social-icons__link" href="https://www.facebook.com/ProteusThemes" target="_blank"><i class="fa  fa-facebook"></i></a>
@@ -150,7 +143,6 @@ Welcome to our land of opportunities </div>
 </div>
 <div class="jumbotron-content__description">
 <p class="p1"><span class="s1">Starting from loading to unloading and maintaining the highest standards in terms of safety while in transit, we take nothing to chance.</span></p>
-<p><a class="btn    btn-primary" href="https://demo.proteusthemes.com/cargopress/services/" target="_self">OUR SERVICES</a>  <a class="btn    btn-secondary" href="https://demo.proteusthemes.com/cargopress/contact-us/" target="_self">GET IN TOUCH</a></p>
 <div class="w69b-screencastify-mouse"></div>
 </div>
 </div>
@@ -165,14 +157,13 @@ Welcome to our land of opportunities </div>
 </div>
 <div class="jumbotron-content__description">
 <p class="p1"><span class="s1">Starting from loading to unloading and maintaining the highest standards in terms of safety while in transit, we take nothing to chance.</span></p>
-<a class="btn    btn-primary" href="https://demo.proteusthemes.com/cargopress/about-us/" target="_self">READ MORE</a>
 <div class="w69b-screencastify-mouse"></div>
 </div>
 </div>
 </div>
 </div>
 <div class="item ">
-<img src="images/slider_3.jpg" srcset="https://demo.proteusthemes.com/cargopress/wp-content/uploads/sites/24/2015/04/slider_3.jpg 1920w, images/slider_3-425x200.jpg 425w" sizes="100vw" alt="GROUND OR AIR, THERE IS NO STOPPING FOR US">
+<img src="images/slider_3.jpg" srcset="images/slider_3.jpg 1920w, images/slider_3-425x200.jpg 425w" sizes="100vw" alt="GROUND OR AIR, THERE IS NO STOPPING FOR US">
 <div class="container">
 <div class="jumbotron-content">
 <div class="jumbotron-content__title">
@@ -180,7 +171,6 @@ Welcome to our land of opportunities </div>
 </div>
 <div class="jumbotron-content__description">
 <p class="p1"><span class="s1">Starting from loading to unloading and maintaining the highest standards in terms of safety while in transit, we take nothing to chance.</span></p>
-<a class="btn    btn-primary" href="https://demo.proteusthemes.com/cargopress/contact-us/" target="_self">MORE DETAILS</a>
 <div class="w69b-screencastify-mouse"></div>
 </div>
 </div>
@@ -199,14 +189,14 @@ Welcome to our land of opportunities </div>
 </div>
 </div>
 <div class="container" role="main">
-<div id="pl-6"><div class="panel-grid" id="pg-6-0"><div class="panel-row-style-jumbotron-overlap jumbotron-overlap panel-row-style"><div class="panel-grid-cell" id="pgc-6-0-0"><div class="so-panel widget widget_black-studio-tinymce panel-first-child panel-last-child" id="panel-6-0-0-0"><div class="featured-widget panel-widget-style"><h3 class="widget-title"><span class="widget-title__inline">HELLO THERE AND WELCOME</span></h3><div class="textwidget"><p>Our warehousing services are known nationwide to be one of the most reliable, safe and affordable, because we take pride in delivering the best of warehousing services, at the most reasonable prices. Our own warehouses, as well as our partner’s warehouses are located at strategic locations to ensure that there is no additional cost.</p>
+<div id="pl-6"><div class="panel-grid" id="pg-6-0"><div class="panel-row-style-jumbotron-overlap jumbotron-overlap panel-row-style"><div class="panel-grid-cell" id="pgc-6-0-0"><div class="so-panel widget widget_black-studio-tinymce panel-first-child panel-last-child" id="panel-6-0-0-0"><div class="featured-widget panel-widget-style"><h3 class="widget-title"><span class="widget-title__inline">HELLO THERE AND WELCOME</span></h3><div class="textwidget"><p>Our focus is on providing Air and Ground Freight Services with a dedicated team of Customer Service specialists. We are committed to relentlessly offer the best service at the best price.</p>
 <p><a href="#" class="read-more">MORE ABOUT US</a></p>
 </div></div></div></div><div class="panel-grid-cell" id="pgc-6-0-1"><div class="so-panel widget widget_pw_featured_page panel-first-child panel-last-child" id="panel-6-0-1-0">
 <div class="page-box  page-box--block">
 <a class="page-box__picture" href="https://demo.proteusthemes.com/cargopress/services/cargo/"><img width="360" height="204" src="images/32.jpg" class="attachment-pw-page-box wp-post-image" alt="32"/></a>
 <div class="page-box__content">
-<h5 class="page-box__title  text-uppercase"><a href="https://demo.proteusthemes.com/cargopress/services/cargo/">Cargo</a></h5>
-<p>Team of cargo experts are always available to help you with any queries you might have, or if you want to consult in length your logistic requirements. We would study your requirements and provide you with a quote that would not only suit your &hellip;</p>
+<h5 class="page-box__title  text-uppercase"><a href="https://demo.proteusthemes.com/cargopress/services/cargo/">Air Freight</a></h5>
+<p> Rush Box has a dedicated team of experienced agents that specialize in Air Freight solutions. One box, one skid or ten pallets, we will make sure it gets delivered on time. Our main focus is to provide efficient and cost effective alternatives to your air freight needs. &hellip;</p>
 <p><a href="https://demo.proteusthemes.com/cargopress/services/cargo/" class="read-more  read-more--page-box">Read more</a></p>
 </div>
 </div>
@@ -214,8 +204,8 @@ Welcome to our land of opportunities </div>
 <div class="page-box  page-box--block">
 <a class="page-box__picture" href="https://demo.proteusthemes.com/cargopress/services/logistic-service/"><img width="360" height="204" src="images/30.jpg" class="attachment-pw-page-box wp-post-image" alt="30"/></a>
 <div class="page-box__content">
-<h5 class="page-box__title  text-uppercase"><a href="https://demo.proteusthemes.com/cargopress/services/logistic-service/">Logistic Service</a></h5>
-<p>We provide logistic services in the nation, whether it is freight transportation, supply chain solutions, warehousing and distribution, customer resource area services, customs, security and insurance, temperature controlled logistics, industry &hellip;</p>
+<h5 class="page-box__title  text-uppercase"><a href="https://demo.proteusthemes.com/cargopress/services/logistic-service/">Hot Shots</a></h5>
+<p>Next time you have a shipment that needs to be at its destination just in time, count with Rush Box to move it over the road. We will handle your freight with one of our qualified premium carriers and keep you informed of its progress. &hellip;</p>
 <p><a href="https://demo.proteusthemes.com/cargopress/services/logistic-service/" class="read-more  read-more--page-box">Read more</a></p>
 </div>
 </div>
@@ -223,8 +213,8 @@ Welcome to our land of opportunities </div>
 <div class="page-box  page-box--block">
 <a class="page-box__picture" href="https://demo.proteusthemes.com/cargopress/services/storage/"><img width="360" height="204" src="images/4.jpg" class="attachment-pw-page-box wp-post-image" alt="4"/></a>
 <div class="page-box__content">
-<h5 class="page-box__title  text-uppercase"><a href="https://demo.proteusthemes.com/cargopress/services/storage/">Storage</a></h5>
-<p>We take pride in catering to a broad range of clientele throughout the country with our warehousing services, which is comprehensive, reliable and flexible – qualities that are essential to help businesses in this market. Our experienced experts &hellip;</p>
+<h5 class="page-box__title  text-uppercase"><a href="https://demo.proteusthemes.com/cargopress/services/storage/">Expedited LTL</a></h5>
+<p>If you are looking to move your freight cost effectively, we can handle it as LTL, as we offer some of the most competitive rates in the market and the best transit times available in the US and Canada. &hellip;</p>
 <p><a href="https://demo.proteusthemes.com/cargopress/services/storage/" class="read-more  read-more--page-box">Read more</a></p>
 </div>
 </div>
@@ -265,10 +255,6 @@ Welcome to our land of opportunities </div>
 <span class="icon-box__subtitle">Transport your things with our super moving vans.</span>
 </a>
 </div></div></div><div class="panel-grid" id="pg-6-3"><div class="siteorigin-panels-stretch panel-row-style" style="background-color:#f5f5f5;" data-stretch-type="full"><div class="panel-grid-cell" id="pgc-6-3-0"><div class="so-panel widget widget_pw_call_to_action panel-first-child panel-last-child" id="panel-6-3-0-0"> <div class="call-to-action">
-<div class="call-to-action__text">
-Not sure which solution fits you business needs? </div>
-<div class="call-to-action__button">
-<a class="btn    btn-primary" href="http://themeforest.net/item/cargopress-logistic-warehouse-transport-wp/11601531?ref=proteusthemes" target="_blank">CONTACT OUR SALES TEAM</a> </div>
 </div>
 </div></div></div></div><div class="panel-grid" id="pg-6-4"><div class="siteorigin-panels-stretch panel-row-style" style="padding: 60px;background-image: url(images/blured.jpg);background-repeat: repeat;" data-stretch-type="full"><div class="panel-grid-cell" id="pgc-6-4-0"><div class="so-panel widget widget_pw_latest_news panel-first-child panel-last-child" id="panel-6-4-0-0">
 <a href="https://demo.proteusthemes.com/cargopress/2015/05/06/why-choose-our-warehousing-service-2/" class="latest-news  latest-news--block">
@@ -338,153 +324,17 @@ By Jaka Smid
 <a href="https://demo.proteusthemes.com/cargopress/news/" class="latest-news  latest-news--more-news">
 More news
 </a>
-</div></div></div></div><div class="panel-grid" id="pg-6-5"><div class="siteorigin-panels-stretch panel-row-style" style="padding: 60px;background-image: url(images/core_values_bg.jpg);background-position: center center; background-repeat: no-repeat;" data-stretch-type="full"><div class="panel-grid-cell" id="pgc-6-5-0">&nbsp;</div><div class="panel-grid-cell" id="pgc-6-5-1"><div class="so-panel widget widget_black-studio-tinymce panel-first-child panel-last-child" id="panel-6-5-1-0"><div class="textwidget"><h3 style="text-align: center; font-size: 44px;">OUR CORE VALUES</h3>
-<p style="text-align: center;"><span style="color: #4ab9cf;"><strong>WRITTEN BY CARGOPRESS CEO</strong></span></p>
-<hr class="hr-quote"/>
-<p style="text-align: center;">Core values are the fundamental beliefs of a person or organization. The core values are the guiding principles that t dictate behavior and action. Core values can help people to know what is right from wrong, they can help companies to determine if they are on the right path and fulfilling their business goals; and they create an unwavering and unchanging guide. There are many different types of core values and many different examples of core values depending upon the context.</p>
-<p style="text-align: center;">
-<p style="text-align: center;"><a href="images/signature.png" data-slb-group="6" data-slb-active="1" data-slb-internal="0"><img class=" size-full wp-image-344 aligncenter" src="images/signature.png" alt="signature" width="232" height="58"/></a></p>
-</div></div></div><div class="panel-grid-cell" id="pgc-6-5-2">&nbsp;</div></div></div><div class="panel-grid" id="pg-6-6"><div class="panel-grid-cell" id="pgc-6-6-0"><div class="so-panel widget widget_black-studio-tinymce panel-first-child panel-last-child" id="panel-6-6-0-0"><div class="widget-title--big panel-widget-style"><h3 class="widget-title"><span class="widget-title__inline">ABOUT US</span></h3><div class="textwidget"><p>But i must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete count of the system, and expound the actual teaings of the great explorer idea announcing. But i must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete count of the system, and expound the actual teaings of the great explorer idea announcing.</p><p>But i must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and i will give you a complete count of the system, and expound the actual teaings of the great explorer idea announcing.</p><p><a class="read-more" href="#">READ MORE</a></p></div></div></div></div><div class="panel-grid-cell" id="pgc-6-6-1"><div class="so-panel widget widget_black-studio-tinymce panel-first-child panel-last-child" id="panel-6-6-1-0"><div class="featured-widget panel-widget-style"><h3 class="widget-title"><span class="widget-title__inline">REQUEST A QUICK QUOTE</span></h3><div class="textwidget">But i must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete count.
-<br><br>
-<div role="form" class="wpcf7" id="wpcf7-f313-p6-o1" lang="en-US" dir="ltr">
-<div class="screen-reader-response"></div>
-<form name="" action="/cargopress/#wpcf7-f313-p6-o1" method="post" class="wpcf7-form" novalidate="novalidate">
-<div style="display: none;">
-<input type="hidden" name="_wpcf7" value="313"/>
-<input type="hidden" name="_wpcf7_version" value="4.2.1"/>
-<input type="hidden" name="_wpcf7_locale" value="en_US"/>
-<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f313-p6-o1"/>
-<input type="hidden" name="_wpnonce" value="9654b2df77"/>
+</div></div></div></div>
+
+<div class="panel-grid" id="pg-6-7"><div class="panel-grid-cell" id="pgc-6-7-0"><div class="so-panel widget widget_black-studio-tinymce panel-first-child panel-last-child" id="panel-6-7-0-0"><div class="widget-title--big panel-widget-style"><div class="textwidget"><div id='gallery-1' class='gallery galleryid-6 gallery-columns-3 gallery-size-medium'>
 </div>
-<div class="contact-form-small">
-<div class="row">
-<div class="col-xs-12  col-md-6">
-<span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="First and Last Name"/></span>
-<span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="E-mail address"/></span>
-<span class="wpcf7-form-control-wrap menu-354"><select name="menu-354" class="wpcf7-form-control wpcf7-select" aria-invalid="false"><option value="Transport">Transport</option><option value="Storage">Storage</option></select></span>
-</div>
-<div class="col-xs-12  col-md-6">
-<span class="wpcf7-form-control-wrap your-subject"><input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Subject"/></span>
-<span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Message"></textarea></span>
-</div>
-<div class="col-xs-12  col-md-12">
-<input type="submit" value="SEND MESSAGE" class="wpcf7-form-control wpcf7-submit btn btn-primary pull-right"/>
-</div>
-</div>
-</div><div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div></div></div></div></div><div class="panel-grid" id="pg-6-7"><div class="panel-grid-cell" id="pgc-6-7-0"><div class="so-panel widget widget_black-studio-tinymce panel-first-child panel-last-child" id="panel-6-7-0-0"><div class="widget-title--big panel-widget-style"><h3 class="widget-title"><span class="widget-title__inline">FLEET GALLERY</span></h3><div class="textwidget"><p><div id='gallery-1' class='gallery galleryid-6 gallery-columns-3 gallery-size-medium'><figure class='gallery-item'>
-<div class='gallery-icon landscape'>
-<a href="images/11.jpg" data-slb-group="6" data-slb-active="1" data-slb-internal="0"><img width="300" height="170" src="images/11-300x170.jpg" class="attachment-medium" alt="11"/></a>
-</div></figure><figure class='gallery-item'>
-<div class='gallery-icon landscape'>
-<a href="images/9.jpg" data-slb-group="6" data-slb-active="1" data-slb-internal="0"><img width="300" height="170" src="images/9-300x170.jpg" class="attachment-medium" alt="9"/></a>
-</div></figure><figure class='gallery-item'>
-<div class='gallery-icon landscape'>
-<a href="images/8.jpg" data-slb-group="6" data-slb-active="1" data-slb-internal="0"><img width="300" height="170" src="images/8-300x170.jpg" class="attachment-medium" alt="8"/></a>
-</div></figure><figure class='gallery-item'>
-<div class='gallery-icon landscape'>
-<a href="images/7.jpg" data-slb-group="6" data-slb-active="1" data-slb-internal="0"><img width="300" height="170" src="images/7-300x170.jpg" class="attachment-medium" alt="7"/></a>
-</div></figure><figure class='gallery-item'>
-<div class='gallery-icon landscape'>
-<a href="images/6.jpg" data-slb-group="6" data-slb-active="1" data-slb-internal="0"><img width="300" height="170" src="images/6-300x170.jpg" class="attachment-medium" alt="6"/></a>
-</div></figure><figure class='gallery-item'>
-<div class='gallery-icon landscape'>
-<a href="images/4.jpg" data-slb-group="6" data-slb-active="1" data-slb-internal="0"><img width="300" height="170" src="images/4-300x170.jpg" class="attachment-medium" alt="4"/></a>
-</div></figure>
-</div>
-</p></div></div></div></div><div class="panel-grid-cell" id="pgc-6-7-1"><div class="so-panel widget widget_black-studio-tinymce panel-first-child panel-last-child" id="panel-6-7-1-0"><div class="widget-title--big panel-widget-style"><h3 class="widget-title"><span class="widget-title__inline">FAQ</span></h3><div class="textwidget"><h4></h4>
-<h4><a class="dark-link" href="https://demo.proteusthemes.com/cargopress/frequently-asked-questions/" target="_blank">HOW MANY TIMES DO I HAVE TO TELL YOU A FEW DIFFERENT WAYS?</a></h4>
-<hr/>
-<h4><a class="dark-link" href="https://demo.proteusthemes.com/cargopress/frequently-asked-questions/" target="_blank">WHAT IS DO I HAVE TO TELL YOU A FEW LOREM?</a></h4>
-<hr/>
-<h4><a class="dark-link" href="https://demo.proteusthemes.com/cargopress/frequently-asked-questions/" target="_blank">HOW MANY DO I HAVE TO TELL YOU HAVE A?</a></h4>
-<hr/>
-<p><a class="read-more" href="https://demo.proteusthemes.com/cargopress/frequently-asked-questions">MORE QUESTIONS</a></p>
-</div></div></div></div></div><div class="panel-grid" id="pg-6-8"><div class="siteorigin-panels-stretch panel-row-style" style="padding: 60px;background-color:#eeeeee;" data-stretch-type="full"><div class="panel-grid-cell" id="pgc-6-8-0"><div class="so-panel widget widget_pw_testimonials panel-first-child panel-last-child" id="panel-6-8-0-0"><div class="widget-title--big panel-widget-style">
-<div class="testimonial">
-<h3 class="widget-title"><span class="widget-title__inline">TESTIMONIALS</span></h3>
-<div class="testimonial__carousel">
-<a class="testimonial__carousel--left" href="#carousel-testimonials-widget-8-0-0" data-slide="prev"><i class="fa  fa-caret-left" aria-hidden="true"></i><span class="sr-only" role="button">Next</span></a>
-<a class="testimonial__carousel--right" href="#carousel-testimonials-widget-8-0-0" data-slide="next"><i class="fa  fa-caret-right" aria-hidden="true"></i><span class="sr-only" role="button">Previous</span></a>
-</div>
-<div id="carousel-testimonials-widget-8-0-0" class="carousel slide" data-ride="carousel" data-interval="false">
- 
-<div class="carousel-inner" role="listbox">
-<div class="item active">
-<div class="row">
-<div class="col-xs-12  col-sm-6">
-<blockquote>
-<p class="testimonial__quote">
-But I must explain to you how all this mistakn idea of denouncing pleasure and praising pain was born and I will give you a complete of the system, and expound the actual teaings of the great explorer idea.
-</p>
-<cite class="testimonial__author">
-Frank Martin<span class="testimonial__author-description">, Transporter</span>
-</cite>
-</blockquote>
-</div>
-<div class="col-xs-12  col-sm-6">
-<blockquote>
-<p class="testimonial__quote">
-But I must explain to you how all this mistakn idea of denouncing pleasure and praising pain was born and I will give you a complete of the system, and expound the actual teaings of the great explorer idea.
-</p>
-<cite class="testimonial__author">
-Martin Frank<span class="testimonial__author-description">, Transporter</span>
-</cite>
-</blockquote>
-</div>
-</div></div> <div class="item"><div class="row">
-<div class="col-xs-12  col-sm-6">
-<blockquote>
-<p class="testimonial__quote">
-But I must explain to you how all this mistakn idea of denouncing pleasure and praising pain was born and I will give you a complete of the system, and expound the actual teaings of the great explorer idea.
-</p>
-<cite class="testimonial__author">
-Frank Martin<span class="testimonial__author-description">, Transporter</span>
-</cite>
-</blockquote>
-</div>
-<div class="col-xs-12  col-sm-6">
-<blockquote>
-<p class="testimonial__quote">
-But I must explain to you how all this mistakn idea of denouncing pleasure and praising pain was born and I will give you a complete of the system, and expound the actual teaings of the great explorer idea.
-</p>
-<cite class="testimonial__author">
-Martin Frank<span class="testimonial__author-description">, Transporter</span>
-</cite>
-</blockquote>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div></div></div></div></div><div class="panel-grid" id="pg-6-9"><div class="siteorigin-panels-stretch panel-row-style" data-stretch-type="full-stretched"><div class="panel-grid-cell" id="pgc-6-9-0"><div class="so-panel widget widget_pw_google_map panel-first-child panel-last-child" id="panel-6-9-0-0">
+</p></div></div></div></div></div>
+<div class="panel-grid" id="pg-6-9"><div class="siteorigin-panels-stretch panel-row-style" data-stretch-type="full-stretched"><div class="panel-grid-cell" id="pgc-6-9-0"><div class="so-panel widget widget_pw_google_map panel-first-child panel-last-child" id="panel-6-9-0-0">
 <div class="simple-map  js-where-we-are" data-latlng="51.422144,-3.278289" data-markers="[{&quot;id&quot;:&quot;1&quot;,&quot;title&quot;:&quot;London&quot;,&quot;locationlatlng&quot;:&quot;51.507331,-0.127668&quot;,&quot;custompinimage&quot;:&quot;https:\/\/demo.proteusthemes.com\/cargopress\/wp-content\/uploads\/sites\/24\/2015\/05\/pin.png&quot;}]" data-zoom="7" data-type="roadmap" data-style="[{&quot;featureType&quot;:&quot;administrative&quot;,&quot;elementType&quot;:&quot;labels.text.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#444444&quot;}]},{&quot;featureType&quot;:&quot;landscape&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#f2f2f2&quot;}]},{&quot;featureType&quot;:&quot;landscape.man_made&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#eeeeee&quot;}]},{&quot;featureType&quot;:&quot;landscape.natural.landcover&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#dddddd&quot;}]},{&quot;featureType&quot;:&quot;landscape.natural.terrain&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#dddddd&quot;}]},{&quot;featureType&quot;:&quot;poi&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]},{&quot;featureType&quot;:&quot;road&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;saturation&quot;:-100},{&quot;lightness&quot;:45}]},{&quot;featureType&quot;:&quot;road.highway&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;simplified&quot;}]},{&quot;featureType&quot;:&quot;road.arterial&quot;,&quot;elementType&quot;:&quot;labels.icon&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]},{&quot;featureType&quot;:&quot;transit&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]},{&quot;featureType&quot;:&quot;water&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#46bcec&quot;},{&quot;visibility&quot;:&quot;on&quot;}]},{&quot;featureType&quot;:&quot;water&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#1f425d&quot;}]},{&quot;featureType&quot;:&quot;water&quot;,&quot;elementType&quot;:&quot;labels.text.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#979797&quot;}]},{&quot;featureType&quot;:&quot;water&quot;,&quot;elementType&quot;:&quot;labels.text.stroke&quot;,&quot;stylers&quot;:[{&quot;weight&quot;:&quot;0.01&quot;}]}]" style="height: 380px;"></div>
-</div></div></div></div><div class="panel-grid" id="pg-6-10"><div class="panel-grid-cell" id="pgc-6-10-0"><div class="so-panel widget widget_text panel-first-child panel-last-child" id="panel-6-10-0-0"><div class="widget-title--big panel-widget-style"><h3 class="widget-title"><span class="widget-title__inline">OUR PARTNERS</span></h3> <div class="textwidget"><div class="logo-panel">
-<div class="row">
-<div class="col-xs-12  col-sm-2">
-<img src="images/logo_1.png" alt="Client">
-</div>
-<div class="col-xs-12  col-sm-2">
-<img src="images/logo_2.png" alt="Client">
-</div>
-<div class="col-xs-12  col-sm-2">
-<img src="images/logo_3.png" alt="Client">
-</div>
-<div class="col-xs-12  col-sm-2">
-<img src="images/logo_4.png" alt="Client">
-</div>
-<div class="col-xs-12  col-sm-2">
-<img src="images/logo_5.png" alt="Client">
-</div>
-<div class="col-xs-12  col-sm-2">
-<img src="images/logo_6.png" alt="Client">
-</div>
-</div>
-</div></div>
 </div></div></div></div><div class="panel-grid" id="pg-6-11"><div class="siteorigin-panels-stretch panel-row-style" style="padding: 60px;background-image: url(images/counter_bg.jpg);background-repeat: repeat;" data-stretch-type="full"><div class="panel-grid-cell" id="pgc-6-11-0"><div class="so-panel widget widget_pw_number-counter panel-first-child panel-last-child" id="panel-6-11-0-0"> <div class="widget-number-counters" data-speed="1000">
 <div class="number-counter">
 <i class="number-counter__icon  fa  fa-building-o"></i>
-<div class="number-counter__number  js-number" data-to="15">00</div>
+<div class="number-counter__number  js-number" data-to="1">00</div>
 <div class="number-counter__title">Offices Worldwide</div>
 </div>
 <div class="number-counter">
@@ -499,43 +349,19 @@ Martin Frank<span class="testimonial__author-description">, Transporter</span>
 </div>
 <div class="number-counter">
 <i class="number-counter__icon  fa  fa-users"></i>
-<div class="number-counter__number  js-number" data-to="25">00</div>
+<div class="number-counter__number  js-number" data-to="15">00</div>
 <div class="number-counter__title">Years of Experiences</div>
 </div>
 </div>
 </div></div></div></div></div></div>
 <footer class="footer" role="contentinfo">
-<div class="footer-top">
-<div class="container">
-<div class="row">
-<div class="col-xs-12  col-md-4"><div class="widget  widget_black_studio_tinymce"><div class="textwidget"><p><img class=" size-full wp-image-22 alignnone" src="images/logo-footer.png" alt="logo-footer" width="217" height="50"/></p>
-<p>But i must explain to you how all this mistaken idea pleasure and praising pain was born and i will give you. But i explain to you how all this mistaken idea.<br><br></p>
-<p><a class="icon-container  icon-container--square" href="https://www.facebook.com/ProteusThemes" target="_blank"><span class="fa fa-facebook"></span></a> <a class="icon-container  icon-container--square" href="https://twitter.com/ProteusThemes" target="_blank"><span class="fa fa-twitter"></span></a> <a class="icon-container  icon-container--square" href="http://themeforest.net/user/ProteusThemes/portfolio" target="_blank"><span class="fa fa-wordpress"></span></a> <a class="icon-container  icon-container--square" href="https://www.youtube.com/user/ProteusNetCompany" target="_blank"><span class="fa fa-youtube-play"></span></a></p>
-</div></div></div><div class="col-xs-12  col-md-2"><div class="widget  widget_nav_menu"><h6 class="footer-top__headings">NAVIGATION</h6><div class="menu-top-menu-container"><ul id="menu-top-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-467"><a href="https://demo.proteusthemes.com/cargopress/extras/tables/">Extras</a>
-<ul class="sub-menu">
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-468"><a href="https://demo.proteusthemes.com/cargopress/extras/tables/">Tables</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24"><a href="http://themeforest.net/item/cargopress-logistic-warehouse-transport-wp/11601531?ref=proteusthemes">Buy Now</a></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a target="_blank" href="https://www.proteusthemes.com/docs/cargopress-pt/">Theme Documentation</a></li>
-</ul></div></div></div><div class="col-xs-12  col-md-2"><div class="widget  widget_nav_menu"><h6 class="footer-top__headings">OUR SERVICES</h6><div class="menu-services-menu-container"><ul id="menu-services-menu" class="menu"><li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111"><a href="https://demo.proteusthemes.com/cargopress/services/">All Services</a></li>
-<li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a href="https://demo.proteusthemes.com/cargopress/services/ground-transport/">Ground Transport</a></li>
-<li id="menu-item-113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-113"><a href="https://demo.proteusthemes.com/cargopress/services/cargo/">Cargo</a></li>
-<li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114"><a href="https://demo.proteusthemes.com/cargopress/services/warehousing/">Warehousing</a></li>
-<li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-115"><a href="https://demo.proteusthemes.com/cargopress/services/logistic-service/">Logistic Service</a></li>
-<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a href="https://demo.proteusthemes.com/cargopress/services/trucking-service/">Trucking Service</a></li>
-<li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117"><a href="https://demo.proteusthemes.com/cargopress/services/storage/">Storage</a></li>
-</ul></div></div></div><div class="col-xs-12  col-md-4"><div class="widget  widget_black_studio_tinymce"><h6 class="footer-top__headings">BUY NOW</h6><div class="textwidget"><p>But i must explain to you how all this mistaken idea pleasure and praising pain was born and i will give you. But i explain to you how all this mistaken idea.<br><br></p>
-<p><a class="btn    btn-info" href="http://themeforest.net/item/cargopress-logistic-warehouse-transport-wp/11601531?ref=proteusthemes" target="_blank">BUY CARGOPRESS</a></p>
-</div></div></div> </div>
-</div>
-</div>
+
 <div class="footer-bottom">
 <div class="container">
 <div class="footer-bottom__left">
-CargoPress Theme Made by <a href="https://www.proteusthemes.com/">ProteusThemes</a>. </div>
+Rush-Box Theme Made by <a href="http://nuevolaredo.f403.mx/">Forbidden 403</a>. </div>
 <div class="footer-bottom__right">
-Copyright © 2009–2015 CargoPress. All rights reserved. </div>
+Copyright © 2009–2015 Forbidden 403. All rights reserved. </div>
 </div>
 </div>
 </footer>
