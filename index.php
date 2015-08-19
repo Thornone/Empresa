@@ -182,7 +182,7 @@ Welcome to our land of opportunities </div>
 <div class="page-box__content">
 <h5 class="page-box__title  text-uppercase"><a href="https://demo.proteusthemes.com/cargopress/services/cargo/">Air Freight</a></h5>
 <p> Rush Box has a dedicated team of experienced agents that specialize in Air Freight solutions. One box, one skid or ten pallets, we will make sure it gets delivered on time. Our main focus is to provide efficient and cost effective alternatives to your air freight needs. &hellip;</p>
-<p><a href="https://demo.proteusthemes.com/cargopress/services/cargo/" class="read-more  read-more--page-box">Read more</a></p>
+<p><div class="widget  widget_text"> <div class="textwidget"><a class="btn    btn-info" href="https://demo.proteusthemes.com/cargopress/contact-us/" target="_self">Cotizar</a> </div></div></p>
 </div>
 </div>
 </div></div><div class="panel-grid-cell" id="pgc-6-0-2"><div class="so-panel widget widget_pw_featured_page panel-first-child panel-last-child" id="panel-6-0-2-0">
@@ -191,7 +191,7 @@ Welcome to our land of opportunities </div>
 <div class="page-box__content">
 <h5 class="page-box__title  text-uppercase"><a href="https://demo.proteusthemes.com/cargopress/services/logistic-service/">Hot Shots</a></h5>
 <p>Next time you have a shipment that needs to be at its destination just in time, count with Rush Box to move it over the road. We will handle your freight with one of our qualified premium carriers and keep you informed of its progress. &hellip;</p>
-<p><a href="https://demo.proteusthemes.com/cargopress/services/logistic-service/" class="read-more  read-more--page-box">Read more</a></p>
+<p><div class="widget  widget_text"> <div class="textwidget"><a class="btn    btn-info" href="https://demo.proteusthemes.com/cargopress/contact-us/" target="_self">Cotizar</a> </div></div></p>
 </div>
 </div>
 </div></div><div class="panel-grid-cell" id="pgc-6-0-3"><div class="so-panel widget widget_pw_featured_page panel-first-child panel-last-child" id="panel-6-0-3-0">
@@ -200,7 +200,7 @@ Welcome to our land of opportunities </div>
 <div class="page-box__content">
 <h5 class="page-box__title  text-uppercase"><a href="https://demo.proteusthemes.com/cargopress/services/storage/">Expedited LTL</a></h5>
 <p>If you are looking to move your freight cost effectively, we can handle it as LTL, as we offer some of the most competitive rates in the market and the best transit times available in the US and Canada. &hellip;</p>
-<p><a href="https://demo.proteusthemes.com/cargopress/services/storage/" class="read-more  read-more--page-box">Read more</a></p>
+<p><div class="widget  widget_text"> <div class="textwidget"><a class="btn    btn-info" href="https://demo.proteusthemes.com/cargopress/contact-us/" target="_self">Cotizar</a> </div></div></p>
 </div>
 </div>
 </div></div></div></div><div class="panel-grid" id="pg-6-1"><div class="panel-grid-cell" id="pgc-6-1-0"><div class="so-panel widget widget_black-studio-tinymce panel-first-child panel-last-child" id="panel-6-1-0-0"><div class="widget-title--big panel-widget-style"><h3 class="widget-title"><span class="widget-title__inline">OUR SERVICES</span></h3><div class="textwidget"></div></div></div></div></div><div class="panel-grid" id="pg-6-2"><div class="panel-grid-cell" id="pgc-6-2-0"><div class="so-panel widget widget_pw_icon_box panel-first-child" id="panel-6-2-0-0">
