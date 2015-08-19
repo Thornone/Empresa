@@ -83,21 +83,13 @@ Welcome to our land of opportunities </div>
 </div>
 <div class="header__navigation">
 <nav class="collapse  navbar-collapse" role="navigation" aria-label="Main Menu" id="cargopress-navbar-collapse">
-<ul id="menu-main-menu" class="main-navigation  js-main-nav  js-dropdown" role="menubar"><li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6 current_page_item menu-item-11"><a href="https://demo.proteusthemes.com/cargopress/">Home</a></li>
-<li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-84" aria-haspopup="true" aria-expanded="false" tabindex="0"><a href="https://demo.proteusthemes.com/cargopress/services/">Services</a>
-<ul class="sub-menu" role="menu">
-<li id="menu-item-103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="https://demo.proteusthemes.com/cargopress/services/ground-transport/">Ground Transport</a></li>
-<li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="https://demo.proteusthemes.com/cargopress/services/cargo/">Cargo</a></li>
-<li id="menu-item-105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105"><a href="https://demo.proteusthemes.com/cargopress/services/warehousing/">Warehousing</a></li>
-<li id="menu-item-106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-106"><a href="https://demo.proteusthemes.com/cargopress/services/logistic-service/">Logistic Service</a></li>
-<li id="menu-item-107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107"><a href="https://demo.proteusthemes.com/cargopress/services/trucking-service/">Trucking Service</a></li>
-<li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="https://demo.proteusthemes.com/cargopress/services/storage/">Storage</a></li>
-</ul>
-</li>
-<li id="menu-item-234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a href="https://demo.proteusthemes.com/cargopress/about-us/">About Us</a></li>
-<li id="menu-item-360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-360"><a href="https://demo.proteusthemes.com/cargopress/shop/">Shop</a></li>
-<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="https://demo.proteusthemes.com/cargopress/news/">News</a></li>
-<li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="https://demo.proteusthemes.com/cargopress/contact-us/">Contact Us</a></li>
+<ul id="menu-main-menu" class="main-navigation  js-main-nav  js-dropdown" role="menubar">
+<li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6 current_page_item menu-item-11"><a href="index.php">Home</a></li>
+<li id="menu-item-234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a href="nosotros.php">About Us</a></li>
+<li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84" aria-haspopup="true" aria-expanded="false" tabindex="0"><a href="servicios.php">Services</a></li>
+<li id="menu-item-360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-360"><a href="tienda.php">Shop</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="noticias.php">News</a></li>
+<li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="contacto.php">Contact Us</a></li>
 </ul> </nav>
 </div>
 <div class="header__widgets">
@@ -121,13 +113,6 @@ Welcome to our land of opportunities </div>
 /* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></span>
 </div>
 </div>  </div>
-<div class="header__navigation-widgets">
-<div class="widget  widget-social-icons">
-<a class="social-icons__link" href="https://www.facebook.com/ProteusThemes" target="_blank"><i class="fa  fa-facebook"></i></a>
-<a class="social-icons__link" href="https://twitter.com/ProteusThemes" target="_blank"><i class="fa  fa-twitter"></i></a>
-<a class="social-icons__link" href="http://themeforest.net/user/ProteusThemes/portfolio" target="_blank"><i class="fa  fa-wordpress"></i></a>
-<a class="social-icons__link" href="https://www.youtube.com/user/ProteusNetCompany" target="_blank"><i class="fa  fa-youtube"></i></a>
-</div> </div>
 </header>
 </div>
 </div><div class="jumbotron  jumbotron--with-captions">
@@ -256,74 +241,6 @@ Welcome to our land of opportunities </div>
 </a>
 </div></div></div><div class="panel-grid" id="pg-6-3"><div class="siteorigin-panels-stretch panel-row-style" style="background-color:#f5f5f5;" data-stretch-type="full"><div class="panel-grid-cell" id="pgc-6-3-0"><div class="so-panel widget widget_pw_call_to_action panel-first-child panel-last-child" id="panel-6-3-0-0"> <div class="call-to-action">
 </div>
-</div></div></div></div><div class="panel-grid" id="pg-6-4"><div class="siteorigin-panels-stretch panel-row-style" style="padding: 60px;background-image: url(images/blured.jpg);background-repeat: repeat;" data-stretch-type="full"><div class="panel-grid-cell" id="pgc-6-4-0"><div class="so-panel widget widget_pw_latest_news panel-first-child panel-last-child" id="panel-6-4-0-0">
-<a href="https://demo.proteusthemes.com/cargopress/2015/05/06/why-choose-our-warehousing-service-2/" class="latest-news  latest-news--block">
-<div class="latest-news__date">
-<div class="latest-news__date__month">
-May
-</div>
-<div class="latest-news__date__day">
-6
-</div>
-</div>
-<div class="latest-news__image">
-<img width="848" height="480" src="images/31.jpg" class="attachment-post-thumbnail wp-post-image" alt="31"/>
-</div>
-<div class="latest-news__content">
-<h4 class="latest-news__title">Why choose our warehousing service?</h4>
-<div class="latest-news__author">
-By Jaka Smid
-</div>
-</div>
-</a>
-</div></div><div class="panel-grid-cell" id="pgc-6-4-1"><div class="so-panel widget widget_pw_latest_news panel-first-child panel-last-child" id="panel-6-4-1-0">
-<a href="https://demo.proteusthemes.com/cargopress/2015/05/06/top-benefits-of-hiring-our-trucking-service-2/" class="latest-news  latest-news--block">
-<div class="latest-news__date">
-<div class="latest-news__date__month">
-May
-</div>
-<div class="latest-news__date__day">
-6
-</div>
-</div>
-<div class="latest-news__image">
-<img width="848" height="480" src="images/8.jpg" class="attachment-post-thumbnail wp-post-image" alt="8"/>
-</div>
-<div class="latest-news__content">
-<h4 class="latest-news__title">Top benefits of hiring our trucking service</h4>
-<div class="latest-news__author">
-By Jaka Smid
-</div>
-</div>
-</a>
-</div></div><div class="panel-grid-cell" id="pgc-6-4-2"><div class="so-panel widget widget_pw_latest_news panel-first-child panel-last-child" id="panel-6-4-2-0">
-<a href="https://demo.proteusthemes.com/cargopress/2015/05/06/logistic-service-providers-would-understand-your-business/" class="latest-news  latest-news--inline">
-<div class="latest-news__content">
-<h4 class="latest-news__title">Logistic service providers would understand your business</h4>
-<div class="latest-news__author">
-By Jaka Smid
-</div>
-</div>
-</a>
-<a href="https://demo.proteusthemes.com/cargopress/2015/05/06/our-trucking-service-ensures-you-best-quality-services-at-all-times/" class="latest-news  latest-news--inline">
-<div class="latest-news__content">
-<h4 class="latest-news__title">Our trucking service ensures you best quality services at all times</h4>
-<div class="latest-news__author">
-By Jaka Smid
-</div>
-</div>
-</a>
-<a href="https://demo.proteusthemes.com/cargopress/2015/05/06/we-are-experienced-and-expert-in-the-business-of-logistics/" class="latest-news  latest-news--inline">
-<div class="latest-news__content">
-<h4 class="latest-news__title">We are experienced and expert in the business of logistics</h4>
-<div class="latest-news__author">
-By Jaka Smid
-</div>
-</div>
-</a>
-<a href="https://demo.proteusthemes.com/cargopress/news/" class="latest-news  latest-news--more-news">
-More news
-</a>
 </div></div></div></div>
 
 <div class="panel-grid" id="pg-6-7"><div class="panel-grid-cell" id="pgc-6-7-0"><div class="so-panel widget widget_black-studio-tinymce panel-first-child panel-last-child" id="panel-6-7-0-0"><div class="widget-title--big panel-widget-style"><div class="textwidget"><div id='gallery-1' class='gallery galleryid-6 gallery-columns-3 gallery-size-medium'>
