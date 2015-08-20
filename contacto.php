@@ -4,7 +4,7 @@
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <link rel="pingback" href="https://demo.proteusthemes.com/cargopress/xmlrpc.php"/>
-<title>Contact Us | CargoPress</title>
+<title>Contact Us | Rush-Box</title>
 <link rel="alternate" type="application/rss+xml" title="CargoPress &raquo; Feed" href="https://demo.proteusthemes.com/cargopress/feed/"/>
 <link rel="alternate" type="application/rss+xml" title="CargoPress &raquo; Comments Feed" href="https://demo.proteusthemes.com/cargopress/comments/feed/"/>
 <link rel="alternate" type="application/rss+xml" title="CargoPress &raquo; Contact Us Comments Feed" href="https://demo.proteusthemes.com/cargopress/contact-us/feed/"/>
@@ -111,7 +111,7 @@ Welcome to our land of opportunities </div>
 <span class="icon-box__subtitle"><a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="eb82858d84ab888a998c849b998e9898c58284">[email&#160;protected]</a><script cf-hash='f9e31' type="text/javascript">
 /* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></span>
 </div>
-</div><div class="widget  widget_text"> <div class="textwidget"><a class="btn    btn-info" href="https://demo.proteusthemes.com/cargopress/contact-us/" target="_self">REQUEST A QUOTE</a></div>
+</div><div class="widget  widget_text"> <div class="textwidget"><a class="btn    btn-info" href="https://demo.proteusthemes.com/cargopress/contact-us/" target="_self">Log In</a></div>
 </div> </div>
 </header>
 </div>
@@ -124,7 +124,7 @@ Welcome to our land of opportunities </div>
 </div> <div class="breadcrumbs">
 <div class="container">
  
-<span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" title="Go to CargoPress." href="https://demo.proteusthemes.com/cargopress" class="home">CargoPress</a></span><span typeof="v:Breadcrumb"><span property="v:title">Contact Us</span></span> </div>
+<span typeof="v:Breadcrumb"><a rel="v:url" property="v:title" title="Go to CargoPress." href="https://demo.proteusthemes.com/cargopress" class="home">Rush-Box</a></span><span typeof="v:Breadcrumb"><span property="v:title">Contact Us</span></span> </div>
 </div>
 <div class="container">
 <div class="row">
