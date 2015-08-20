@@ -87,8 +87,7 @@ Welcome to our land of opportunities </div>
 <li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6 current_page_item menu-item-11"><a href="index.php">Home</a></li>
 <li id="menu-item-234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a href="nosotros.php">About Us</a></li>
 <li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84" aria-haspopup="true" aria-expanded="false" tabindex="0"><a href="servicios.php">Services</a></li>
-<li id="menu-item-360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-360"><a href="tienda.php">Shop</a></li>
-<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="noticias.php">News</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="herramientas.php">Documents</a></li>
 <li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="contacto.php">Contact Us</a></li>
 </ul> </nav>
 </div>

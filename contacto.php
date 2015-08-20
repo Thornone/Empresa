@@ -86,8 +86,7 @@ Welcome to our land of opportunities </div>
 <li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6 current_page_item menu-item-11"><a href="index.php">Home</a></li>
 <li id="menu-item-234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a href="nosotros.php">About Us</a></li>
 <li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84" aria-haspopup="true" aria-expanded="false" tabindex="0"><a href="servicios.php">Services</a></li>
-<li id="menu-item-360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-360"><a href="tienda.php">Shop</a></li>
-<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="noticias.php">News</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="herramientas.php">Documents</a></li>
 <li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="contacto.php">Contact Us</a></li>
 </ul> </nav>
 </div>
@@ -96,7 +95,7 @@ Welcome to our land of opportunities </div>
 <div class="icon-box">
 <i class="fa  fa-headphones"></i>
 <h4 class="icon-box__title">Call Us Anytime</h4>
-<span class="icon-box__subtitle">1-888-123-4567</span>
+<span class="icon-box__subtitle">+1 (956) 489-2390</span>
 </div>
 </div><div class="widget  widget-icon-box">
 <div class="icon-box">
@@ -108,11 +107,13 @@ Welcome to our land of opportunities </div>
 <div class="icon-box">
 <i class="fa  fa-envelope-o"></i>
 <h4 class="icon-box__title">Email Us</h4>
-<span class="icon-box__subtitle"><a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="eb82858d84ab888a998c849b998e9898c58284">[email&#160;protected]</a><script cf-hash='f9e31' type="text/javascript">
+<span class="icon-box__subtitle"><a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="70191e161f30131102171f00021503035e191f">[email&#160;protected]</a><script cf-hash='f9e31' type="text/javascript">
 /* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></span>
 </div>
-</div><div class="widget  widget_text"> <div class="textwidget"><a class="btn    btn-info" href="https://demo.proteusthemes.com/cargopress/contact-us/" target="_self">Log In</a></div>
-</div> </div>
+</div> 
+<div class="widget  widget_text"> <div class="textwidget"><a class="btn    btn-info" href="https://demo.proteusthemes.com/cargopress/contact-us/" target="_self">Login</a></div>
+</div>
+</div>
 </header>
 </div>
 </div>
