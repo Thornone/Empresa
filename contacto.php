@@ -131,9 +131,7 @@ Welcome to our land of opportunities </div>
 <main class="col-xs-12" role="main">
 <article class="clearfix post-120 page type-page status-publish hentry">
 <div class="hentry__content">
-<div id="pl-120"><div class="panel-grid" id="pg-120-0"><div class="siteorigin-panels-stretch panel-row-style" style="margin-top: -60px;" data-stretch-type="full-stretched"><div class="panel-grid-cell" id="pgc-120-0-0"><div class="so-panel widget widget_pw_google_map panel-first-child panel-last-child" id="panel-120-0-0-0">
-<div class="simple-map  js-where-we-are" data-latlng="51.422144,-3.278289" data-markers="[{&quot;id&quot;:&quot;1&quot;,&quot;title&quot;:&quot;London&quot;,&quot;locationlatlng&quot;:&quot;51.507331,-0.127668&quot;,&quot;custompinimage&quot;:&quot;https:\/\/demo.proteusthemes.com\/cargopress\/wp-content\/uploads\/sites\/24\/2015\/05\/pin.png&quot;}]" data-zoom="7" data-type="roadmap" data-style="[{&quot;featureType&quot;:&quot;administrative&quot;,&quot;elementType&quot;:&quot;labels.text.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#444444&quot;}]},{&quot;featureType&quot;:&quot;landscape&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#f2f2f2&quot;}]},{&quot;featureType&quot;:&quot;landscape.man_made&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#eeeeee&quot;}]},{&quot;featureType&quot;:&quot;landscape.natural.landcover&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#dddddd&quot;}]},{&quot;featureType&quot;:&quot;landscape.natural.terrain&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#dddddd&quot;}]},{&quot;featureType&quot;:&quot;poi&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]},{&quot;featureType&quot;:&quot;road&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;saturation&quot;:-100},{&quot;lightness&quot;:45}]},{&quot;featureType&quot;:&quot;road.highway&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;simplified&quot;}]},{&quot;featureType&quot;:&quot;road.arterial&quot;,&quot;elementType&quot;:&quot;labels.icon&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]},{&quot;featureType&quot;:&quot;transit&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;visibility&quot;:&quot;off&quot;}]},{&quot;featureType&quot;:&quot;water&quot;,&quot;elementType&quot;:&quot;all&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#46bcec&quot;},{&quot;visibility&quot;:&quot;on&quot;}]},{&quot;featureType&quot;:&quot;water&quot;,&quot;elementType&quot;:&quot;geometry.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#1f425d&quot;}]},{&quot;featureType&quot;:&quot;water&quot;,&quot;elementType&quot;:&quot;labels.text.fill&quot;,&quot;stylers&quot;:[{&quot;color&quot;:&quot;#979797&quot;}]},{&quot;featureType&quot;:&quot;water&quot;,&quot;elementType&quot;:&quot;labels.text.stroke&quot;,&quot;stylers&quot;:[{&quot;weight&quot;:&quot;0.01&quot;}]}]" style="height: 380px;"></div>
-</div></div></div></div><div class="panel-grid" id="pg-120-1"><div class="panel-grid-cell" id="pgc-120-1-0"><div class="so-panel widget widget_black-studio-tinymce panel-first-child" id="panel-120-1-0-0"><div class="featured-widget panel-widget-style"><h3 class="widget-title"><span class="widget-title__inline">OLD FASHIONED CONTACT</span></h3><div class="textwidget"><p><strong>Rush-Box, Itd.</strong><br/>227 Street<br/>Laredo,Tx 78045 , PO BOX 450301 </p>
+<div id="pl-120"><div class="panel-grid" id="pg-120-1"><div class="panel-grid-cell" id="pgc-120-1-0"><div class="so-panel widget widget_black-studio-tinymce panel-first-child" id="panel-120-1-0-0"><div class="featured-widget panel-widget-style"><h3 class="widget-title"><span class="widget-title__inline">OLD FASHIONED CONTACT</span></h3><div class="textwidget"><p><strong>Rush-Box, Itd.</strong><br/>227 Street<br/>Laredo,Tx 78045 , PO BOX 450301 </p>
 <p>1-888-123-4567<br/>1-888-123-4568<br/><a href="/cdn-cgi/l/email-protection#40292e262f00232132272f30322533336e232f2d"><span class="__cf_email__" data-cfemail="a7cec9c1c8e7c4c6d5c0c8d7d5c2d4d489c4c8ca">[email&#160;protected]</span><script cf-hash='f9e31' type="text/javascript">
 /* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></a></p>
 </div></div></div><div class="so-panel widget widget_pw_opening_time panel-last-child" id="panel-120-1-0-1"><div class="featured-widget panel-widget-style">
@@ -194,7 +192,28 @@ Welcome to our land of opportunities </div>
 <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="E-mail address"/></span>
 </div>
 <div class="col-xs-12  col-md-4">
+<span class="wpcf7-form-control-wrap your-Address"><input type="text" name="your-address" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-address wpcf7-validates-as-required wpcf7-validates-as-address" aria-required="true" aria-invalid="false" placeholder="Address"/></span>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12  col-md-4">
+<span class="wpcf7-form-control-wrap your-city"><input type="text" name="your-city" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="City"/></span>
+</div>
+<div class="col-xs-12  col-md-4">
+<span class="wpcf7-form-control-wrap last-zipcode"><input type="text" name="your-zip-code" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Zip Code"/></span>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12  col-md-4">
+<span class="wpcf7-form-control-wrap your-company-name"><input type="text" name="company-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Company Name"/></span>
+</div>
+<div class="col-xs-12  col-md-4">
 <span class="wpcf7-form-control-wrap your-phone"><input type="tel" name="your-phone" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Phone Number"/></span>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12  col-md-4">
+<span class="wpcf7-form-control-wrap your-state"><input type="text" name="your-state" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="State"/></span>
 </div>
 </div>
 <div class="row">

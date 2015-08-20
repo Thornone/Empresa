@@ -83,21 +83,13 @@ Welcome to our land of opportunities </div>
 </div>
 <div class="header__navigation">
 <nav class="collapse  navbar-collapse" role="navigation" aria-label="Main Menu" id="cargopress-navbar-collapse">
-<ul id="menu-main-menu" class="main-navigation  js-main-nav  js-dropdown" role="menubar"><li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6 current_page_item menu-item-11"><a href="index.php">Inicio</a></li>
-<li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-84" aria-haspopup="true" aria-expanded="false" tabindex="0"><a href="servicios.php">Servicios</a>
-<ul class="sub-menu" role="menu">
-<li id="menu-item-103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="https://demo.proteusthemes.com/cargopress/services/ground-transport/">Ground Transport</a></li>
-<li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="https://demo.proteusthemes.com/cargopress/services/cargo/">Cargo</a></li>
-<li id="menu-item-105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105"><a href="https://demo.proteusthemes.com/cargopress/services/warehousing/">Warehousing</a></li>
-<li id="menu-item-106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-106"><a href="https://demo.proteusthemes.com/cargopress/services/logistic-service/">Logistic Service</a></li>
-<li id="menu-item-107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107"><a href="https://demo.proteusthemes.com/cargopress/services/trucking-service/">Trucking Service</a></li>
-<li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="https://demo.proteusthemes.com/cargopress/services/storage/">Storage</a></li>
-</ul>
-</li>
-<li id="menu-item-234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a href="nosotros.php">Nosotros</a></li>
-<li id="menu-item-360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-360"><a href="tienda.php">Tienda</a></li>
-<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="noticias.php">Noticias</a></li>
-<li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="contacto.php">Contacto</a></li>
+<ul id="menu-main-menu" class="main-navigation  js-main-nav  js-dropdown" role="menubar">
+<li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6 current_page_item menu-item-11"><a href="index.php">Home</a></li>
+<li id="menu-item-234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a href="nosotros.php">About Us</a></li>
+<li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84" aria-haspopup="true" aria-expanded="false" tabindex="0"><a href="servicios.php">Services</a></li>
+<li id="menu-item-360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-360"><a href="tienda.php">Shop</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="noticias.php">News</a></li>
+<li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="contacto.php">Contact Us</a></li>
 </ul> </nav>
 </div>
 <div class="header__widgets">
@@ -120,14 +112,6 @@ Welcome to our land of opportunities </div>
 <span class="icon-box__subtitle"><a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="c9a0a7afa689aaa8bbaea6b9bbacbabae7a0a6">[email&#160;protected]</a><script cf-hash='f9e31' type="text/javascript">
 /* <![CDATA[ */!function(){try{var t="currentScript"in document?document.currentScript:function(){for(var t=document.getElementsByTagName("script"),e=t.length;e--;)if(t[e].getAttribute("cf-hash"))return t[e]}();if(t&&t.previousSibling){var e,r,n,i,c=t.previousSibling,a=c.getAttribute("data-cfemail");if(a){for(e="",r=parseInt(a.substr(0,2),16),n=2;a.length-n;n+=2)i=parseInt(a.substr(n,2),16)^r,e+=String.fromCharCode(i);e=document.createTextNode(e),c.parentNode.replaceChild(e,c)}}}catch(u){}}();/* ]]> */</script></span>
 </div>
-</div><div class="widget  widget_text"> <div class="textwidget"><a class="btn    btn-info" href="https://demo.proteusthemes.com/cargopress/contact-us/" target="_self">REQUEST A QUOTE</a></div>
-</div> </div>
-<div class="header__navigation-widgets">
-<div class="widget  widget-social-icons">
-<a class="social-icons__link" href="https://www.facebook.com/ProteusThemes" target="_blank"><i class="fa  fa-facebook"></i></a>
-<a class="social-icons__link" href="https://twitter.com/ProteusThemes" target="_blank"><i class="fa  fa-twitter"></i></a>
-<a class="social-icons__link" href="http://themeforest.net/user/ProteusThemes/portfolio" target="_blank"><i class="fa  fa-wordpress"></i></a>
-<a class="social-icons__link" href="https://www.youtube.com/user/ProteusNetCompany" target="_blank"><i class="fa  fa-youtube"></i></a>
 </div> </div>
 </header>
 </div>
@@ -149,7 +133,7 @@ Welcome to our land of opportunities </div>
 <div class="hentry__content">
 <div id="pl-76"><div class="panel-grid" id="pg-76-0"><div class="panel-grid-cell" id="pgc-76-0-0"><div class="so-panel widget widget_pw_featured_page panel-first-child panel-last-child" id="panel-76-0-0-0">
 <div class="page-box  page-box--block">
-<a class="page-box__picture" href="https://demo.proteusthemes.com/cargopress/services/ground-transport/"><img src="images/17-360x240.jpg" width="360" height="240" srcset="images/17-360x240.jpg 360w, images/17.jpg 848w" sizes="(min-width: 781px) 360px, calc(100vw - 30px)" class="wp-post-image" alt="Ground Transport"></a>
+<a class="page-box__picture" href="https://demo.proteusthemes.com/cargopress/services/ground-transport/"><img src="images/17-360x240.jpg" width="360" height="240" srcset="images/17-360x240.jpg 360w, images/17-360x240.jpg 848w" sizes="(min-width: 781px) 360px, calc(100vw - 30px)" class="wp-post-image" alt="Ground Transport"></a>
 <div class="page-box__content">
 <h5 class="page-box__title  text-uppercase"><a href="https://demo.proteusthemes.com/cargopress/services/ground-transport/">Ground Transport</a></h5>
 <p>Ground transport and freight forwarding services, along with other ancillary services, helps us to provide tailor made logistic solutions to our clients, which we design as per their requirements and business ecosystem to help cut their cost, &hellip;</p>
